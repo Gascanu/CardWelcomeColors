@@ -11,7 +11,7 @@
   "subtle": "#929596"
 },
 "accent": {
-  "default": "#CE2D4F", // this affects the "positive" action for some reason
+  "default": "#CE2D4F",
   "subtle": "#00A0D1"
 },
 "good": {
